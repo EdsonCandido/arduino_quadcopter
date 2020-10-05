@@ -24,7 +24,6 @@
  * 2. parameters marked with (**) in the comment are stored in eeprom and can be changed via the GUI
  */
 
-
 /*************************************************************************************************/
 /*****************                                                                 ***************/
 /****************  SECTION  1 - BASIC SETUP                                                *******/
